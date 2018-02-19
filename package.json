@@ -1,0 +1,15 @@
+{
+  "name": "lab--responsive-design-natgeo-master",
+  "version": "1.0.0",
+  "description": "## Context National Geographic originated as a popular print magazine that reports on interesting topics, discoveries, and developments in anthropology and nature. It now provides most of its content online and is looking for a front-end developer to build a responsive front-end for their *Photography* section. The designer has created mock ups of the mobile, tablet, and desktop prototypes.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass ./CSS/style.scss ./CSS/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
